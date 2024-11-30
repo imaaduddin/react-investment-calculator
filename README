@@ -1,1 +1,4 @@
 Building an investment calculator using React.
+
+Features Include:
+1. Ability to calculate investment value, interest per year, total interest and invested capital based on the duration input from user.
